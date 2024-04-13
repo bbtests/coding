@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+
+header,
+main {
+  padding: 0 7vw;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bg-black {
+  background-color: #181818;
+}
+
+.bg-grey {
+  background-color: #D6D6D6;
+}
+
+.bg-primary {
+  background-color: #9A1725;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.btn {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-primary {
+  background-color: #9A1725;
+  color: #ffffff;
+  padding: 6px 12px;
+  border: 1px solid #181818;
+  border-radius: 12px;
+}
+
+.btn-secondary {
+  background-color: #181818;
+}
+
+.btn-white {
+  background-color: #ffffff;
+  color: #9A1725;
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.gap-12 {
+  gap: 12px;
+}
+
+.gap-15 {
+  gap: 15px;
+}
+
+.text-black {
+  color: #181818;
+}
+
+.text-primary {
+  color: #9A1725;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute;
+}/*# sourceMappingURL=main.css.map */
